@@ -30,8 +30,7 @@ positive_reviews = [
     "A must-watch for everyone.", "This film blew me away.",
     "Incredible from start to finish.", "Will stay with me forever.",
     "Magical and memorable.", "Uplifting and powerful.",
-    "Easily one of my favorites.", "I was moved to tears.",
-    "Pure brilliance."
+    "Easily one of my favorites.", "I was moved to tears."
 ]
 
 negative_reviews = [
